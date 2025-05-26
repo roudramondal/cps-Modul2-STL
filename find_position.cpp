@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 void solve (){
-  vector<int> v{1, 30, 30, 5, 6, 30,3};
+  vector<int> v{1, 30, 30, 5, 6, 30,3}; // vector check
   // int mx = max_element(v.begin(), v.end()) - v.begin();
   // cout << mx << endl;// position print
   // cout<<v[mx]<<endl; it will print max value 
